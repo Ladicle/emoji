@@ -1,0 +1,3 @@
+# Emoji
+
+Slack emoji project.
